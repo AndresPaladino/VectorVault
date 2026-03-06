@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Alembic
+alembic/__pycache__/
+alembic/versions/__pycache__/
+
+# Storage
+backend/storage/
+
+# Docker
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
