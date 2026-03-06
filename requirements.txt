@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+pgvector
+alembic
+python-multipart
+open_clip_torch
+Pillow
+torch
+pydantic-settings
